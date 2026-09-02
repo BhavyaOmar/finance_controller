@@ -1,0 +1,30 @@
+refund_id,payment_id,amount,status,speed,created_at,notes
+rfnd_kPAzLmp1weo98r,pay_fPBi3DldqyunDu,32935,processed,normal,2026-07-02 20:41:07,full refund
+rfnd_7WTjI89NB2mrd9,pay_JAfo16hD8hP1jF,3131716,processed,normal,2026-07-04 01:55:31,full refund
+rfnd_fvPp8Ebgi7VUqk,pay_zVNYfwB8787EQ2,233287,processed,normal,2026-07-06 10:00:00,post-settlement full refund
+rfnd_IxIoS8HkxkgRkO,pay_fPQBGxbxtl8nv8,239581,processed,instant,2026-07-06 15:57:28,full refund
+rfnd_gX0TFJM1KyMH37,pay_RWmlN2O5z0BGuf,1285432,processed,instant,2026-07-08 10:16:57,partial refund
+rfnd_4TS3YFWsoHgfUM,pay_TKtE0bxvRhALtY,590921,processed,normal,2026-07-08 21:00:00,partial refund
+rfnd_SemffTM64Qz2qj,pay_yTYOjVyuxgfa8t,46321,processed,normal,2026-07-11 09:39:03,full refund
+rfnd_zTVcwPYC2DK3Hc,pay_gBo1evMXN9MzXu,91381,processed,instant,2026-07-11 18:45:14,partial refund
+rfnd_3wtCBJ8f93Glz0,pay_Xh2H3x9exT8QzL,789275,processed,normal,2026-07-14 19:00:00,full refund
+rfnd_HA5EDuiU8taeqT,pay_Fi0TVUAgqNmmh7,82301,processed,instant,2026-07-17 16:30:15,full refund
+rfnd_5qw0Rww9prCYdu,pay_9BkaupYoTVPBr1,32313,processed,normal,2026-07-18 13:55:27,partial refund
+rfnd_1YP9gKgh9WpxLR,pay_ve79LWyfaAO6rA,516662,processed,instant,2026-07-28 16:31:50,full refund
+rfnd_9kubhmLt6GSPJs,pay_yBnGoAhWuhDhHi,567184,processed,normal,2026-07-29 16:15:03,partial refund
+rfnd_njasp9b2NE1CAJ,pay_76qtf70Wptn34k,1497396,processed,normal,2026-07-30 17:00:21,partial refund
+rfnd_QF1S9BAdOg3Xr1,pay_78CZD91WhgYNNY,563868,processed,normal,2026-08-02 07:48:39,partial refund
+rfnd_YxBPb9IigoD1hh,pay_4qwRkl035GcZev,89630,processed,instant,2026-08-02 18:38:46,full refund
+rfnd_NIVZ19ou1tg6Uf,pay_uyqfhgIksjlqXf,19336,processed,normal,2026-08-03 18:57:28,full refund
+rfnd_VL8RjnCjRrWuaO,pay_MSv2LK9vNtAvkg,31726,processed,instant,2026-08-04 00:13:26,full refund
+rfnd_knJX3JPuVzWwX0,pay_V4viruPYWcHYAP,1285046,processed,normal,2026-08-06 07:39:16,partial refund
+rfnd_BQ6bnKlbO8vgs6,pay_OUzpchpzFtSM9l,71121,processed,instant,2026-08-07 20:00:15,partial refund
+rfnd_zi6yg29V044ZsN,pay_AHtSOoovBEdGBP,15960,processed,normal,2026-08-09 17:19:09,partial refund
+rfnd_RoXbmUVwHMXjK3,pay_NPdVYpS0Jaj2gs,171858,processed,instant,2026-08-12 04:05:37,full refund
+rfnd_C0cpJjQrbFo1So,pay_CFVwIqQFqxDa0w,18566,processed,normal,2026-08-14 20:27:04,partial refund
+rfnd_W6Uv4r8cy15qhO,pay_bF1crrLyt09fdr,129992,processed,normal,2026-08-17 00:34:50,full refund
+rfnd_5lqvZ3FXJDQgQ2,pay_bVM4YPyJG3m26k,47853,processed,instant,2026-08-23 09:29:44,full refund
+rfnd_gXOMEoQCt0hIVN,pay_pYlDGPhZM1v366,273783,processed,normal,2026-08-23 12:17:04,full refund
+rfnd_vAQ1qwfagTZFpL,pay_q3IpvrRJGtOChW,18438,processed,normal,2026-08-24 13:40:55,partial refund
+rfnd_7UNM9edWAijE0k,pay_fVmU16e55iHtdn,17628,processed,normal,2026-08-24 23:06:05,full refund
+rfnd_FOlWymq2TFwvZC,pay_mXgWontGtuXHEg,20297,processed,normal,2026-08-24 23:33:57,full refund

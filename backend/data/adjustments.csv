@@ -1,0 +1,4 @@
+adjustment_id,settlement_id,payment_id,type,amount,description,created_at
+adj_hGX1XIDGhEQNrY,setl_QsQqAk5BnUkxgW,pay_zVNYfwB8787EQ2,refund_deduction,-233287,Deduction for refund rfnd_fvPp8Ebgi7VUqk on payment pay_zVNYfwB8787EQ2 which was refunded after its original settlement setl_oco80CpzaBd9eZ had already been paid out.,2026-07-06 12:00:00
+adj_OEXLVSeVo1Q76X,setl_66NZYXfekjvkH0,pay_FnkYnwOsTMsUag,fee_correction,303,"Fee over-charged on payment pay_FnkYnwOsTMsUag in a prior cycle, corrected here.",2026-07-28 23:00:00
+adj_NZcY1OuptI0Bsc,setl_KwbQ7xPvAV1au3,pay_Ya37jXPjujyCUY,chargeback,-66853,Chargeback raised by issuing bank on payment pay_Ya37jXPjujyCUY.,2026-08-02 23:00:00
